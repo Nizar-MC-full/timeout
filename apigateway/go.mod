@@ -3,7 +3,7 @@ module cloud.google.com/go/apigateway
 go 1.19
 
 require (
-	cloud.google.com/go/longrunning v0.3.0
+	cloud.google.com/go/longrunning v1.0.0
 	github.com/googleapis/gax-go/v2 v2.7.0
 	google.golang.org/api v0.103.0
 	google.golang.org/genproto v0.0.0-20221201164419-0e50fba7f41c
